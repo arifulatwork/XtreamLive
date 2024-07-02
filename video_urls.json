@@ -1,19 +1,52 @@
 {
-    "News": {
-      "Somoy TV": "https://youtu.be/mF6zTmiFaAs",
-      "Independent TV": "https://youtu.be/fFuNOwOmCxw",
-      "Ekattor TV": "https://youtu.be/LIJbtzL2qLs"
-      
-    },
-    "Religion": {
-      "ARY Qtv": "https://youtu.be/k0unDXRANyc",
-      "Madani Channel Urdu": "https://youtu.be/T_Y7slpGoB4"
-      
-    },
-    "Cartoon": {
-      "Disney Jr": "https://youtu.be/Dkkp4KfdGPY",
-      "Disney XD": "https://youtu.be/Fjp2TdlTTIU"
-      
-    }
+  "News": {
+    "Somoy TV": "https://youtu.be/mF6zTmiFaAs",
+    "Independtent TV": "https://youtu.be/fFuNOwOmCxw",
+    "Ekattor TV": "https://youtu.be/LIJbtzL2qLs",
+    "Channel i": "https://youtu.be/8tvpdpYqSwg",
+    "RTV": "https://youtu.be/DHT8D_KhqHU",
+    "Channel 24": "https://youtu.be/FYptE83Tgk0",
+    "News 24": "https://youtu.be/nXjuy8xE468",
+    "Jamuna TV": "https://youtu.be/41w8FrOXvqM",
+    "Ekhon TV": "https://youtu.be/lrsZN0SKyNk",
+    "DBC News": "https://youtu.be/MYVi_NKphds",
+    "ATN News": "https://youtu.be/WGzygXoxSrc",
+    "Zee 24 Ghanta": "https://youtu.be/8aApFBmEJV0",
+    "TV 9 Bangla": "https://youtu.be/zIqSZ-glNm0",
+    "ABP Ananda": "https://youtu.be/PKwLsAu-z10",
+    "News 18 Bangla": "https://youtu.be/glmUgFEP7XI",
+    "Republic Bangla": "https://youtu.be/suNkQQn2qD0",
+    "Calcutta News": "https://youtu.be/_zlyvYva7P0",
+    "Kolkata Tv": "https://youtu.be/fX5ey0rVlIk",
+    "Al Jazeera English": "https://youtu.be/gCNeDWCI0vo",
+    "CNA": "https://youtu.be/XWq5kBlakcQ",
+    "DW News": "https://youtu.be/tZT2MCYu6Zw",
+    "FRANCE 24 English": "https://youtu.be/Ap-UM1O9RBU",
+    "CBN News": "https://youtu.be/CG2XDTgvZPo",
+    "Sky News": "https://youtu.be/oJUvTVdTMyY",
+    "CGTN Europe": "https://youtu.be/H5mzqN4f0HA",
+    "WION": "https://youtu.be/gadjsB5BkK4",
+    "ABC News AUS": "https://youtu.be/vOTiJkg1voo",
+    "TRT World": "https://youtu.be/5VF4aor94gw",
+    "Euronews": "https://youtu.be/pykpO5kQJ98",
+    "India Today": "https://youtu.be/Xi1ucVWWpoI",
+    "NDTV": "https://youtu.be/sr2Ry9JVDtU",
+    "LiveNOW from FOX": "https://youtu.be/DDNfkAn-M5U",
+    "NationalGeographic": "https://youtu.be/CvdS4biecPk",
+    "Nat Geo WILD": "https://youtu.be/BJ3Yv572V1A"
+  },
+  "Religion": {
+    "ARY Qtv": "https://youtu.be/k0unDXRANyc",
+    "Madani Channel Urdu": "https://youtu.be/T_Y7slpGoB4",
+    "Makkah Live": "https://youtu.be/moQtMet7F7w",
+    "Mercy TV": "https://youtu.be/N-WZAopzG0g",
+    "Madina Live": "https://youtu.be/Kt7hKHlArl8",
+    "MuslimTv Bangla": "https://youtu.be/nVKf-Tfw5LA"
+  },
+  "Cartoon": {
+    "Disney Jr": "https://youtu.be/Dkkp4KfdGPY",
+    "Disney XD": "https://youtu.be/Fjp2TdlTTIU",
+    "Power Kids": "https://youtu.be/SxccAJiEXg4",
+    "Boomerang UK": "https://youtu.be/LXoQVDGeuRc"
   }
-  
+}
