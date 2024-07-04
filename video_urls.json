@@ -34,7 +34,7 @@
     {"image": "assets/images/lnff.png", "text": "LiveNOW from FOX", "videoUrl": "https://youtu.be/DDNfkAn-M5U"},
     {"image": "assets/images/ng.png", "text": "NationalGeographic", "videoUrl": "https://youtu.be/CvdS4biecPk"},
     {"image": "assets/images/ngw.png", "text": "Nat Geo WILD", "videoUrl": "https://youtu.be/BJ3Yv572V1A"},
-        {"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpQDWg5tjkpION52cCgsx1tRtR0R1SYfvHQ&s", "text": "Vision", "videoUrl": "https://youtu.be/BJ3Yv572V1A"}
+        {"image": "assets/images/ng.png", "text": "Vision", "videoUrl": "https://youtu.be/BJ3Yv572V1A"}
   ],
   "Religion": [
     {"image": "assets/images/aryq.png", "text": "ARY Qtv", "videoUrl": "https://youtu.be/k0unDXRANyc"},
