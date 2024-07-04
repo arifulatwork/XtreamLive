@@ -33,8 +33,7 @@
     {"image": "assets/images/ndtv.png", "text": "NDTV", "videoUrl": "https://youtu.be/sr2Ry9JVDtU"},
     {"image": "assets/images/lnff.png", "text": "LiveNOW from FOX", "videoUrl": "https://youtu.be/DDNfkAn-M5U"},
     {"image": "assets/images/ng.png", "text": "NationalGeographic", "videoUrl": "https://youtu.be/CvdS4biecPk"},
-    {"image": "assets/images/ngw.png", "text": "Nat Geo WILD", "videoUrl": "https://youtu.be/BJ3Yv572V1A"},
-    {"image": "assets/images/ekushe.png", "text": "Ekushe TV", "videoUrl": "https://ekusheyserver.com/etvlivesn.m3u8"}
+    {"image": "assets/images/ngw.png", "text": "Nat Geo WILD", "videoUrl": "https://youtu.be/BJ3Yv572V1A"}
   ],
   "Religion": [
     {"image": "assets/images/aryq.png", "text": "ARY Qtv", "videoUrl": "https://youtu.be/k0unDXRANyc"},
