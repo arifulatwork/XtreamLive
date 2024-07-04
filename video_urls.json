@@ -36,7 +36,6 @@
     {"image": "assets/images/ngw.png", "text": "Nat Geo WILD", "videoUrl": "https://youtu.be/BJ3Yv572V1A"},
     {"image": "assets/images/ekushe.png", "text": "Ekushe TV", "videoUrl": "https://ekusheyserver.com/etvlivesn.m3u8"}
   ],
-  ],
   "Religion": [
     {"image": "assets/images/aryq.png", "text": "ARY Qtv", "videoUrl": "https://youtu.be/k0unDXRANyc"},
     {"image": "assets/images/mdu.png", "text": "Madani Channel Urdu", "videoUrl": "https://youtu.be/T_Y7slpGoB4"},
