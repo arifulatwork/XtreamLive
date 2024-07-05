@@ -35,7 +35,7 @@
     {"image": "assets/images/lnff.png", "text": "LiveNOW from FOX", "videoUrl": "https://youtu.be/b8YqGJHgYSk"},
     {"image": "assets/images/ng.png", "text": "NationalGeographic", "videoUrl": "https://youtu.be/CvdS4biecPk"},
     {"image": "assets/images/ngw.png", "text": "Nat Geo WILD", "videoUrl": "https://youtu.be/BJ3Yv572V1A"},
-     {"image": "assets/images/ngw.png", "text": "9XM", "videoUrl": "http://www.parsatv.com/embed.php?name=9XM&auto=false"},
+    {"image": "assets/images/ngw.png", "text": "9XM", "videoUrl": "http://www.parsatv.com/embed.php?name=9XM&auto=false"}
     
   ],
   "Religion": [
