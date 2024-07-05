@@ -35,6 +35,7 @@
     {"image": "assets/images/lnff.png", "text": "LiveNOW from FOX", "videoUrl": "https://youtu.be/b8YqGJHgYSk"},
     {"image": "assets/images/ng.png", "text": "NationalGeographic", "videoUrl": "https://youtu.be/CvdS4biecPk"},
     {"image": "assets/images/ngw.png", "text": "Nat Geo WILD", "videoUrl": "https://youtu.be/BJ3Yv572V1A"}
+    {"image": "assets/images/ngw.png", "text": "9XM", "videoUrl": "", "m3u8Url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"}
   ],
   "Religion": [
     {"image": "assets/images/aryq.png", "text": "ARY Qtv", "videoUrl": "https://youtu.be/k0unDXRANyc"},
