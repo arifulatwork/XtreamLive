@@ -30,10 +30,61 @@
       "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
     },
     {
-      "imagePath": "https://yt3.googleusercontent.com/292EgtDpS8BG08NVGwLFD-yz8gAPS_FmFK-URE5j92Sz-nzhqFUqBxiRxA3qCGXTYLOmRFbPBvE=s900-c-k-c0x00ffffff-no-rj",
-      "text": "Bangla TV",
-      "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
+      "imagePath": "assets/images/joj.png",
+      "text": "JOJ Family",
+      "videoUrl": "https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "JOJ TV",
+      "videoUrl": "https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "JOJ Plus",
+      "videoUrl": "https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Bizz TV",
+      "videoUrl": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Biz Cinema",
+      "videoUrl": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Popstar!  TV",
+      "videoUrl": "https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Carac 1",
+      "videoUrl": "https://edge17.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Carac 2",
+      "videoUrl": "https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Carac 3",
+      "videoUrl": "https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Carac 4",
+      "videoUrl": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
+    },
+    {
+      "imagePath": "assets/images/9xm.png",
+      "text": "9xm",
+      "videoUrl": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
     }
+    
     
   ]
   
