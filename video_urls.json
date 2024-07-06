@@ -49,5 +49,8 @@
     {"image": "assets/images/dxd.png", "text": "Disney XD", "videoUrl": "https://youtu.be/Fjp2TdlTTIU"},
     {"image": "assets/images/pwk.png", "text": "Power Kids", "videoUrl": "https://youtu.be/SxccAJiEXg4"},
     {"image": "assets/images/bmu.png", "text": "Boomerang UK", "videoUrl": "https://youtu.be/LXoQVDGeuRc"}
+  ],
+  "WebView": [
+    {"image": "assets/images/webview_icon.png", "text": "Web View", "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"}
   ]
 }
