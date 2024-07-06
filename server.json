@@ -1,5 +1,20 @@
 [
     {
+      "imagePath": "assets/images/peace.png",
+      "text": "Peace TV Bangla",
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/peace.png",
+      "text": "Peace TV English",
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/peace.png",
+      "text": "Peace TV Urdu",
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+    },
+    {
       "imagePath": "assets/images/ekush.png",
       "text": "Ekushe TV",
       "videoUrl": "https://ekusheyserver.com/etvlivesn.m3u8"
@@ -8,6 +23,11 @@
       "imagePath": "assets/images/boishakhi.png",
       "text": "Boishakhi TV",
       "videoUrl": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/bangla.png",
+      "text": "Bangla TV",
+      "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
     }
     
   ]
