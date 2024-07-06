@@ -1,13 +1,13 @@
 [
     {
-      "imagePath": "assets/images/server1.png",
-      "text": "EkusheTV",
+      "imagePath": "assets/images/ekush.png",
+      "text": "Ekushe TV",
       "videoUrl": "https://ekusheyserver.com/etvlivesn.m3u8"
     },
     {
-      "imagePath": "assets/images/server2.png",
-      "text": "EkusheTV",
-      "videoUrl": "https://ekusheyserver.com/etvlivesn.m3u8"
+      "imagePath": "assets/images/boishakhi.png",
+      "text": "Boishakhi TV",
+      "videoUrl": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
     }
     
   ]
