@@ -7,12 +7,17 @@
     {
       "imagePath": "assets/images/peace.png",
       "text": "Peace TV English",
-      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
     },
     {
       "imagePath": "assets/images/peace.png",
       "text": "Peace TV Urdu",
       "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/somoy.png",
+      "text": "Somoy TV",
+      "videoUrl": "https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8"
     },
     {
       "imagePath": "assets/images/ekush.png",
