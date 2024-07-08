@@ -25,6 +25,11 @@
       "videoUrl": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
     },
     {
+      "imagePath": "assets/images/masranga.png",
+      "text": "Masranga TV",
+      "videoUrl": "https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8"
+    },
+    {
       "imagePath": "assets/images/bangla.png",
       "text": "Bangla TV",
       "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
@@ -82,8 +87,39 @@
     {
       "imagePath": "assets/images/9xm.png",
       "text": "9xm",
-      "videoUrl": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
+      "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Bollywood HD",
+      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/b078d575-2d6b-4616-97d7-a8ea541cfc8e/2.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Bollywood Classic",
+      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/c71799ae-5425-4aef-bfc1-dc913c166092/2.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Barkat TV",
+      "videoUrl": "https://streamer12.vdn.dstreamone.net/barkattv/dexpo/chunks.m3u8"
+    },
+    {
+      "imagePath": "assets/images/shemaro.png",
+      "text": "Shemaroo Bollywood",
+      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/9e583cb2-2f5f-4047-aac1-fd2b848b31d6/0.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Bollywood Prime",
+      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/a303707b-f41c-4a58-b17c-a5bacc6f3c60/3.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Pitaara TV",
+      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/f0ced21c-e2c1-4fab-82e6-8f529615f6b7/0.m3u8"
     }
+    
     
     
   ]
