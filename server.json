@@ -45,6 +45,16 @@
       "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
     },
     {
+      "imagePath": "assets/images/btv.png",
+      "text": "BTV World",
+      "videoUrl": "https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=5Kk8l_QBOfwNu3x6ktTKlA&expires=1721094054&user=d477246e9e724f81a011b847457e71c4"
+    },
+    {
+      "imagePath": "assets/images/btv.png",
+      "text": "BanglaVision",
+      "videoUrl": "https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=gZ0R864LoM2m6HmhQwbdlw&expires=1721094107&user=d477246e9e724f81a011b847457e71c4"
+    },
+    {
       "imagePath": "assets/images/9xm.png",
       "text": "9xm",
       "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
