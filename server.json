@@ -15,6 +15,11 @@
       "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
     },
     {
+      "imagePath": "assets/images/geo.png",
+      "text": "GEO Pakistan",
+      "videoUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+    },
+    {
       "imagePath": "assets/images/somoy.png",
       "text": "Somoy TV",
       "videoUrl": "https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8"
