@@ -45,89 +45,9 @@
       "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
     },
     {
-      "imagePath": "assets/images/joj.png",
-      "text": "JOJ Family",
-      "videoUrl": "https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "JOJ TV",
-      "videoUrl": "https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "JOJ Plus",
-      "videoUrl": "https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Bizz TV",
-      "videoUrl": "https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Biz Cinema",
-      "videoUrl": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Popstar!  TV",
-      "videoUrl": "https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Carac 1",
-      "videoUrl": "https://edge17.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Carac 2",
-      "videoUrl": "https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Carac 3",
-      "videoUrl": "https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Carac 4",
-      "videoUrl": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
-    },
-    {
       "imagePath": "assets/images/9xm.png",
       "text": "9xm",
       "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Bollywood HD",
-      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/b078d575-2d6b-4616-97d7-a8ea541cfc8e/2.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Bollywood Classic",
-      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/c71799ae-5425-4aef-bfc1-dc913c166092/2.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Barkat TV",
-      "videoUrl": "https://streamer12.vdn.dstreamone.net/barkattv/dexpo/chunks.m3u8"
-    },
-    {
-      "imagePath": "assets/images/shemaro.png",
-      "text": "Shemaroo Bollywood",
-      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/9e583cb2-2f5f-4047-aac1-fd2b848b31d6/0.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Bollywood Prime",
-      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/a303707b-f41c-4a58-b17c-a5bacc6f3c60/3.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Pitaara TV",
-      "videoUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/f0ced21c-e2c1-4fab-82e6-8f529615f6b7/0.m3u8"
     }
     
     
