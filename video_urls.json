@@ -1,8 +1,8 @@
 {
   "News": [
-    {"image": "assets/images/somoy.png", "text": "Somoy TV", "videoUrl": "https://youtu.be/mF6zTmiFaAs"},
+    {"image": "assets/images/somoy.png", "text": "Somoy TV", "videoUrl": "https://youtu.be/2z9NHPNf838"},
     {"image": "assets/images/ntv.png", "text": "NTV", "videoUrl": "https://youtu.be/oMHLnU-wQ8A"},
-    {"image": "assets/images/independent.png", "text": "Independtent TV", "videoUrl": "https://youtu.be/ssM6i5UVkdA"},
+    {"image": "assets/images/independent.png", "text": "Independtent TV", "videoUrl": "https://youtu.be/urczBBUS_RQ"},
     {"image": "assets/images/ekattor.png", "text": "Ekattor TV", "videoUrl": "https://youtu.be/SYLLGpSlF-w"},
     {"image": "assets/images/channel i.png", "text": "Channel i", "videoUrl": "https://youtu.be/8tvpdpYqSwg"},
     {"image": "assets/images/rtv.png", "text": "RTV", "videoUrl": "https://youtu.be/DHT8D_KhqHU"},
@@ -43,6 +43,7 @@
     {"image": "assets/images/ksa.png", "text": "Makkah Live", "videoUrl": "https://youtu.be/moQtMet7F7w"},
     {"image": "assets/images/mt.png", "text": "Mercy TV", "videoUrl": "https://youtu.be/N-WZAopzG0g"},
     {"image": "assets/images/ksa.png", "text": "Madina Live", "videoUrl": "https://youtu.be/Kt7hKHlArl8"},
+    {"image": "assets/images/ksa.png", "text": "Madani TV Bangla", "videoUrl": "https://youtu.be/7vESIySCqoo"},
     {"image": "assets/images/mta.png", "text": "MuslimTv Bangla", "videoUrl": "https://youtu.be/nVKf-Tfw5LA"}
   ],
   "Cartoon": [
