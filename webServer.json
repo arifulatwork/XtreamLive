@@ -3,6 +3,12 @@
       "image": "assets/images/somoy.png",
         "text": "BanglaVision",
       "url": "https://mcaster.tv/channel/banglavision.php?u=boisakhitv&vw=100%&vh=471"
+    },
+    {
+        "image": "assets/images/atnbangla.png",
+        "text": "ATN Bangla",
+        "url": "https://mcaster.tv/channel/atnbangla.php?u=atnbangla&vw=100%&vh=400"
     }
+    
   ]
   
