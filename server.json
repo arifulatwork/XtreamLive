@@ -50,14 +50,19 @@
       "videoUrl": "https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=5Kk8l_QBOfwNu3x6ktTKlA&expires=1721094054&user=d477246e9e724f81a011b847457e71c4"
     },
     {
-      "imagePath": "assets/images/bv.png",
-      "text": "BanglaVision",
-      "videoUrl": "https://mcaster.tv/channel/banglavision.php?u=boisakhitv&vw=100%&vh=471"
+      "imagePath": "assets/images/joj.png",
+      "text": "Jagoroni TV",
+      "videoUrl": "https://cdn.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8"
     },
     {
       "imagePath": "assets/images/9xm.png",
       "text": "9xm",
       "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Rajdhani TV",
+      "videoUrl": "https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8"
     }
     
     
