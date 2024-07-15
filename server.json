@@ -51,6 +51,11 @@
     },
     {
       "imagePath": "assets/images/joj.png",
+      "text": "Asian TV",
+      "videoUrl": "https://mtlivestream.site/asian/ytlive/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
       "text": "Jagoroni TV",
       "videoUrl": "https://cdn.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8"
     },
@@ -58,6 +63,11 @@
       "imagePath": "assets/images/9xm.png",
       "text": "9xm",
       "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+    },
+    {
+      "imagePath": "assets/images/joj.png",
+      "text": "Rajdhani TV",
+      "videoUrl": "https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8"
     },
     {
       "imagePath": "assets/images/joj.png",
