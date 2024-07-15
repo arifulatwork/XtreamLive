@@ -1,13 +1,13 @@
 [
     {
-      "image": "assets/images/somoy.png",
+      "image": "assets/images/bv.png",
         "text": "BanglaVision",
       "url": "https://mcaster.tv/channel/banglavision.php?u=boisakhitv&vw=100%&vh=471"
     },
     {
-        "image": "assets/images/atnbangla.png",
-        "text": "ATN Bangla",
-        "url": "https://www.btvlive.gov.bd/channel/BTV-World"
+        "image": "assets/images/anand.png",
+        "text": "Ananda TV",
+        "url": "https://mcaster.tv/channel/anandatv.php?u=anandatv&amp;vw=100%&amp;vh=400"
     },
     {
         "image": "assets/images/biz_cinema.png",
