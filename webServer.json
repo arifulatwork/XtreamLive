@@ -8,6 +8,11 @@
         "image": "assets/images/atnbangla.png",
         "text": "ATN Bangla",
         "url": "http://www.mcaster.tv/channel/bijoytv.php?u=bijoytv&amp;vw=100%&amp;vh=400"
+    },
+    {
+        "image": "assets/images/biz_cinema.png",
+        "text": "Biz Cinema",
+        "url": "http://www.parsatv.com/embed.php?name=Biz-Cinema&auto=false"
     }
     
   ]
