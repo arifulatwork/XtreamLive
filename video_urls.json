@@ -44,7 +44,9 @@
     {"image": "assets/images/mt.png", "text": "Mercy TV", "videoUrl": "https://youtu.be/N-WZAopzG0g"},
     {"image": "assets/images/ksa.png", "text": "Madina Live", "videoUrl": "https://youtu.be/Kt7hKHlArl8"},
     {"image": "assets/images/ksa.png", "text": "Madani TV Bangla", "videoUrl": "https://youtu.be/7vESIySCqoo"},
-    {"image": "assets/images/mta.png", "text": "MuslimTv Bangla", "videoUrl": "https://youtu.be/nVKf-Tfw5LA"}
+    {"image": "assets/images/mta.png", "text": "MuslimTv Bangla", "videoUrl": "https://youtu.be/nVKf-Tfw5LA"},
+    {"image": "assets/images/mta.png", "text": "Huda TV", "videoUrl": "https://youtu.be/UyM5Z2M2BNg"}
+    
   ],
   "Cartoon": [
     {"image": "assets/images/djr.png", "text": "Disney Jr", "videoUrl": "https://youtu.be/Dkkp4KfdGPY"},
