@@ -1,6 +1,6 @@
 {
   "News": [
-    {"image": "assets/images/somoy.png", "text": "Somoy TV", "videoUrl": "https://youtu.be/2z9NHPNf838"},
+    {"image": "assets/images/somoy.png", "text": "Somoy TV", "videoUrl": "https://youtu.be/HQh08dd5nA"},
     {"image": "assets/images/ntv.png", "text": "NTV", "videoUrl": "https://youtu.be/oMHLnU-wQ8A"},
     {"image": "assets/images/independent.png", "text": "Independtent TV", "videoUrl": "https://youtu.be/urczBBUS_RQ"},
     {"image": "assets/images/ekattor.png", "text": "Ekattor TV", "videoUrl": "https://youtu.be/SYLLGpSlF-w"},
