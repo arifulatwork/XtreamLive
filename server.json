@@ -1,81 +1,26 @@
 [
-    {
-      "imagePath": "assets/images/peace.png",
-      "text": "Peace TV Bangla",
-      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/peace.png",
-      "text": "Peace TV English",
-      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/peace.png",
-      "text": "Peace TV Urdu",
-      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/geo.png",
-      "text": "GEO Pakistan",
-      "videoUrl": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/somoy.png",
-      "text": "Somoy TV",
-      "videoUrl": "https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8"
-    },
-    {
-      "imagePath": "assets/images/ekush.png",
-      "text": "Ekushe TV",
-      "videoUrl": "https://ekusheyserver.com/etvlivesn.m3u8"
-    },
-    {
-      "imagePath": "assets/images/boishakhi.png",
-      "text": "Boishakhi TV",
-      "videoUrl": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/masranga.png",
-      "text": "Masranga TV",
-      "videoUrl": "https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/bangla.png",
-      "text": "Bangla TV",
-      "videoUrl": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/btv.png",
-      "text": "BTV World",
-      "videoUrl": "https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=5Kk8l_QBOfwNu3x6ktTKlA&expires=1721094054&user=d477246e9e724f81a011b847457e71c4"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Asian TV",
-      "videoUrl": "https://mtlivestream.site/asian/ytlive/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Jagoroni TV",
-      "videoUrl": "https://cdn.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/9xm.png",
-      "text": "9xm",
-      "videoUrl": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Rajdhani TV",
-      "videoUrl": "https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8"
-    },
-    {
-      "imagePath": "assets/images/joj.png",
-      "text": "Rajdhani TV",
-      "videoUrl": "https://cdn.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8"
-    }
-    
-    
-    
-  ]
-  
+  {
+    "image": "assets/images/peace.png",
+    "text": "Peace TV Bangla",
+    "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+    "type": "m3u8"
+  },
+  {
+    "image": "assets/images/peace.png",
+    "text": "Peace TV English",
+    "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "type": "m3u8"
+  },
+  {
+    "image": "assets/images/peace.png",
+    "text": "Peace TV Urdu",
+    "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "type": "m3u8"
+  },
+  {
+    "image": "assets/images/aze.png",
+    "text": "Al Jazeera English",
+    "videoUrl": "https://youtu.be/gCNeDWCI0vo",
+    "type": "youtube"
+  }
+]
