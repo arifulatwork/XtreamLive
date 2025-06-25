@@ -1,26 +1,31 @@
-[
-  {
-    "image": "assets/images/peace.png",
-    "text": "Peace TV Bangla",
-    "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
-    "type": "m3u8"
-  },
-  {
-    "image": "assets/images/peace.png",
-    "text": "Peace TV English",
-    "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "type": "m3u8"
-  },
-  {
-    "image": "assets/images/peace.png",
-    "text": "Peace TV Urdu",
-    "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "type": "m3u8"
-  },
-  {
-    "image": "assets/images/aze.png",
-    "text": "Al Jazeera English",
-    "videoUrl": "https://youtu.be/gCNeDWCI0vo",
-    "type": "youtube"
-  }
-]
+{
+  "News": [
+    {
+      "image": "assets/images/aze.png",
+      "text": "Al Jazeera English",
+      "videoUrl": "https://youtu.be/gCNeDWCI0vo",
+      "type": "youtube"
+    }
+  ],
+  "Religion": [
+    {
+      "image": "assets/images/peace.png",
+      "text": "Peace TV Bangla",
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+      "type": "m3u8"
+    },
+    {
+      "image": "assets/images/peace.png",
+      "text": "Peace TV English",
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+      "type": "m3u8"
+    },
+    {
+      "image": "assets/images/peace.png",
+      "text": "Peace TV Urdu",
+      "videoUrl": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+      "type": "m3u8"
+    }
+  ],
+  "Cartoon": []
+}
